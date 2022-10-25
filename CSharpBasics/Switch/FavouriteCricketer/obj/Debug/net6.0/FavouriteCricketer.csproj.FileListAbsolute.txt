@@ -1,0 +1,15 @@
+E:\Ajithkumar\C#\Home assignments\Switch\FavouriteCricketer\bin\Debug\net6.0\FavouriteCricketer.exe
+E:\Ajithkumar\C#\Home assignments\Switch\FavouriteCricketer\bin\Debug\net6.0\FavouriteCricketer.deps.json
+E:\Ajithkumar\C#\Home assignments\Switch\FavouriteCricketer\bin\Debug\net6.0\FavouriteCricketer.runtimeconfig.json
+E:\Ajithkumar\C#\Home assignments\Switch\FavouriteCricketer\bin\Debug\net6.0\FavouriteCricketer.dll
+E:\Ajithkumar\C#\Home assignments\Switch\FavouriteCricketer\bin\Debug\net6.0\FavouriteCricketer.pdb
+E:\Ajithkumar\C#\Home assignments\Switch\FavouriteCricketer\obj\Debug\net6.0\FavouriteCricketer.csproj.AssemblyReference.cache
+E:\Ajithkumar\C#\Home assignments\Switch\FavouriteCricketer\obj\Debug\net6.0\FavouriteCricketer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ajithkumar\C#\Home assignments\Switch\FavouriteCricketer\obj\Debug\net6.0\FavouriteCricketer.AssemblyInfoInputs.cache
+E:\Ajithkumar\C#\Home assignments\Switch\FavouriteCricketer\obj\Debug\net6.0\FavouriteCricketer.AssemblyInfo.cs
+E:\Ajithkumar\C#\Home assignments\Switch\FavouriteCricketer\obj\Debug\net6.0\FavouriteCricketer.csproj.CoreCompileInputs.cache
+E:\Ajithkumar\C#\Home assignments\Switch\FavouriteCricketer\obj\Debug\net6.0\FavouriteCricketer.dll
+E:\Ajithkumar\C#\Home assignments\Switch\FavouriteCricketer\obj\Debug\net6.0\refint\FavouriteCricketer.dll
+E:\Ajithkumar\C#\Home assignments\Switch\FavouriteCricketer\obj\Debug\net6.0\FavouriteCricketer.pdb
+E:\Ajithkumar\C#\Home assignments\Switch\FavouriteCricketer\obj\Debug\net6.0\FavouriteCricketer.genruntimeconfig.cache
+E:\Ajithkumar\C#\Home assignments\Switch\FavouriteCricketer\obj\Debug\net6.0\ref\FavouriteCricketer.dll
